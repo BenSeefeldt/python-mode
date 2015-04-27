@@ -357,7 +357,7 @@ endif
     hi def link  pythonSpaceError   Error
 
     hi def link  pythonString       String
-    hi def link  pythonDocstring    String
+    hi def link  pythonDocstring    Comment
     hi def link  pythonUniString    String
     hi def link  pythonRawString    String
     hi def link  pythonUniRawString String
